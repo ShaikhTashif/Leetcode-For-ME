@@ -9,6 +9,7 @@ class Solution(object):
             if complement in seen:
                 return [seen[complement], i]
             seen[num] = i
+buy I'm not work for 8 days.
 
 
 
